@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/NewsApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/NewsApplication/app/src/main/res/layout/activity_news_deatil.xml" value="0.1458966565349544" />
         <entry key="..\:/NewsApplication/app/src/main/res/layout/categories_rv_item.xml" value="0.3" />
         <entry key="..\:/NewsApplication/app/src/main/res/layout/news_rv_item.xml" value="0.36666666666666664" />
       </map>
