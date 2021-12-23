@@ -1,5 +1,13 @@
 package cl.ucn.disc.dsm.kdawson.newsapplication;
 
+
+/*
+ * NewsApplication
+ *
+ * @autor Kevin Dawson D
+ *
+ * */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;

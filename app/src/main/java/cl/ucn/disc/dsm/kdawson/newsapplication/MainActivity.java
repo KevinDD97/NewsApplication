@@ -1,5 +1,12 @@
 package cl.ucn.disc.dsm.kdawson.newsapplication;
 
+/*
+ * Main class to NewsApplication
+ *
+ * @author Kevin Dawson D.
+ *
+ * */
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;

@@ -1,5 +1,13 @@
 package cl.ucn.disc.dsm.kdawson.newsapplication;
 
+
+/*
+ * NewsApplication
+ *
+ * @autor Kevin Dawson D
+ *
+ * */
+
 import java.util.ArrayList;
 
 public class NewsModal {

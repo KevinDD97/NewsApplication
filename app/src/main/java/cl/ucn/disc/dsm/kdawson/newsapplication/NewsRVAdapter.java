@@ -1,5 +1,13 @@
 package cl.ucn.disc.dsm.kdawson.newsapplication;
 
+
+/*
+ * NewsApplication
+ *
+ * @autor Kevin Dawson D
+ *
+ * */
+
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;

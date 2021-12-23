@@ -1,5 +1,12 @@
 package cl.ucn.disc.dsm.kdawson.newsapplication;
 
+/*
+ * NewsApplication
+ *
+ * @autor Kevin Dawson D
+ *
+ * */
+
 public class CategoryRVModal {
 
     private String category;
