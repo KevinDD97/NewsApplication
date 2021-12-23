@@ -37,16 +37,18 @@
     </androidx.appcompat.widget.Toolbar>
     
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idRVCategories"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/idRVCategories"
-        android:orientation="horizontal"
         android:layout_below="@+id/idToolbar"
+        tools:listitem="@layout/categories_rv_item"
+        android:orientation="horizontal"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         />
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        tools:listitem="@layout/news_rv_item"
         android:layout_below="@id/idRVCategories"
         android:id="@+id/idRVNews"
         android:layout_marginTop="5dp"
